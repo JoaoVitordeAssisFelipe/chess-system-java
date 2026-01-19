@@ -1,9 +1,10 @@
+
 package chess;
 
 import boardgamer.Position;
 
 public class ChessPosition {
-
+	
 	private char column;
 	private int row;
 	
